@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://bit.ly/3MKQK1h`// + encodeURI(path as string)//
+					`https://awarecatching.com/bkrs73iy2n?key=633fd2ceb30eb2bd669240360c8f3365`// + encodeURI(path as string)//
 				}`,
 			},
 		};
